@@ -1,4 +1,5 @@
 # Problem: https://leetcode.com/problems/two-sum/
+# Method: Brute Froce
 
 class Solution(object):
     def twoSum(self, nums, target):
