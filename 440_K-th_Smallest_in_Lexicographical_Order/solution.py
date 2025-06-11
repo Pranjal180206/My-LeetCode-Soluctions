@@ -1,5 +1,4 @@
 # Problem: https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
-# Initial soluction
 # Memory Limit Exceeded
 
 class Solution(object):
